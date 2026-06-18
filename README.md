@@ -40,7 +40,7 @@ El archivo Excel a cargar debe contar con una hoja de datos y obligatoriamente t
 ### 1. Clonar o acceder a la carpeta del proyecto
 Abre la consola y navega al directorio del proyecto:
 ```bash
-cd C:\Users\ndmunozp.SIESACLOUDFE\.gemini\antigravity\scratch\evaluador_conocimiento
+cd C:\Users\ndmunozp.SIESACLOUDFE\.gemini\scratch\evaluador_conocimiento
 ```
 
 ### 2. Crear y activar un entorno virtual (Recomendado)
